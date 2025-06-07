@@ -4,4 +4,13 @@ New Code
 
 New Implemet Code Set
 
-I am New Developer What do you think about me ?? 
+This is a Bad Code 
+Just
+I Like You
+Now then,
+
+Class Example{
+    public static void main(String[]args){
+        System.out.println("Hello world")
+    }
+}
